@@ -1,6 +1,7 @@
 {
   "nombre": "Setza",
   "tipo": "Jefe",
+  "test": "Hola%nl%Qué tal%nl% test para embed%nl%",
   "caracteristicas": [
     "Fuerte",
     "Helado",
